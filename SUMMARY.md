@@ -1,7 +1,6 @@
 # Table of contents
 
-* [UnderscoreF17](README.md)
-* [Hey there!](<README (1).md>)
+* [Hey there!](README.md)
 
 ## 🙃 About Me
 
