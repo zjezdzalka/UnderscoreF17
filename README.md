@@ -11,4 +11,4 @@ I currently specialise in front-end and a tiny bit in back-end. I mainly code in
 
 ## 
 
-### Feel free to reach out to me on my website [underf17.carrd.co](underf17.carrd.co) or DM me on Discord: *@_F17*
+### Feel free to reach out to me on my website [underf17.carrd.co](https://underf17.carrd.co) or DM me on Discord: *@_F17*
